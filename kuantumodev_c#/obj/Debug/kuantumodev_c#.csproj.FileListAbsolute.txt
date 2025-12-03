@@ -1,0 +1,8 @@
+C:\Users\furka\source\repos\kuantumodev_c#\bin\Debug\kuantumodev_c#.exe.config
+C:\Users\furka\source\repos\kuantumodev_c#\bin\Debug\kuantumodev_c#.exe
+C:\Users\furka\source\repos\kuantumodev_c#\bin\Debug\kuantumodev_c#.pdb
+C:\Users\furka\source\repos\kuantumodev_c#\obj\Debug\kuantumodev_c#.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\kuantumodev_c#\obj\Debug\kuantumodev_c#.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\kuantumodev_c#\obj\Debug\kuantumodev_c#.exe
+C:\Users\furka\source\repos\kuantumodev_c#\obj\Debug\kuantumodev_c#.pdb
+C:\Users\furka\source\repos\kuantumodev_c#\obj\Debug\kuantumodev_c#.exe.config
